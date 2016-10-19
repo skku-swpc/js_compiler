@@ -11,7 +11,7 @@ Javascript LLVM FrontEnd
 * type inference (data flow analysis)
 * llvm ir generator
 
-## **Contact**
+## Contact
 
 Jeonghwan Park (<jhpark@arcs.skku.edu>), Hwansoo Han (<hshan@skku.edu>)
 Advanced Research on Compilers and Systems, Sungkyunkwan University
