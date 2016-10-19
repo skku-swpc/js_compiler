@@ -10,3 +10,8 @@ Javascript LLVM FrontEnd
 * antlr4 Javascript parser
 * type inference (data flow analysis)
 * llvm ir generator
+
+## **Contact**
+
+Jeonghwan Park (<jhpark@arcs.skku.edu>), Hwansoo Han (<hshan@skku.edu>)
+Advanced Research on Compilers and Systems, Sungkyunkwan University
