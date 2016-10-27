@@ -13,6 +13,6 @@ Javascript LLVM FrontEnd
 
 ## Contact
 
-Jeonghwan Park (<jhpark@arcs.skku.edu>), Hwansoo Han (<hshan@skku.edu>)
+Jeonghwan Park (<jhpark@arcs.skku.edu>), Hwansoo Han (<hhan@skku.edu>)
 
 Advanced Research on Compilers and Systems, Sungkyunkwan University
